@@ -1,6 +1,6 @@
 
 
-A modern **Mintlify website clone** built using pure **HTML & CSS**.  
+A modern Mintlify website clone built using pure HTML & CSS.  
 This project is created for frontend practice and to improve UI development skills by replicating a real-world modern website.
 
 ---
@@ -12,18 +12,15 @@ This project is created for frontend practice and to improve UI development skil
 
 ---
 
-## ✨ Features
-- Clean and modern UI  
-- Fully responsive layout  
-- Reusable components  
+ Features
+- Clean and modern UI    
 - Optimized images and layout  
 - Beginner-friendly structured code  
 
 ---
 
-## 📸 Project Screenshots
-
-### 🖥️ Home Page & Sections
+ Project Screenshots
+ Home Page & Sections
 
 ![Screenshot 1](outputimages/first.png)
 ![Screenshot 2](outputimages/Second.png)
@@ -36,9 +33,8 @@ This project is created for frontend practice and to improve UI development skil
 
 ---
 
-## 📂 Project Setup
+ Project Setup
 To run this project locally:
 
-```bash
-git clone https://github.com/your-username/Mintlify-clone.git
+
 
