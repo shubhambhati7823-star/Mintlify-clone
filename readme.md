@@ -1,2 +1,0 @@
-# Mintlify-clone
-Mintlify clone
