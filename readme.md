@@ -1,1 +1,2 @@
-![alt text](/images/image.png)
+# Mintlify-clone
+Mintlify clone
